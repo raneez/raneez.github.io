@@ -23,9 +23,9 @@ author_image: "/assets/images/profile.png"
 
 paginate:	5
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://raneez.github.io" # the base hostname & protocol for your site
-
+permalink: "/:title"
 # social icons and sharing options
 social:
   - icon:	twitter
