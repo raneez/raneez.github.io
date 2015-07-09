@@ -1,0 +1,43 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+#GitHub pages overrides
+safe: true
+lsi: false 
+
+# Site settings
+title: "pick"
+description: > # this means to ignore newlines until "email:"
+   A Jekyll theme - Mediator forked, Medium inspired
+
+email: raneez@gmail.com
+#blog logo
+logo: "/assets/images/pick.svg"
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Pick Jekyll theme'
+author: 'me'
+author_image: "/assets/images/profile.png"
+
+paginate:	5
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://raneez.github.io" # the base hostname & protocol for your site
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/raneez
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	github
+    url:	https://github.com/raneez
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
