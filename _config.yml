@@ -7,9 +7,9 @@ safe: true
 lsi: false 
 
 # Site settings
-title: "pick"
+title: "Raneez"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Mediator forked, Medium inspired
+   Hasta la vista, Medium inspired
 
 email: raneez@gmail.com
 #blog logo
