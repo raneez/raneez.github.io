@@ -2,7 +2,6 @@ pick
 ========
 
 A medium inspired Jekyll blog theme. I made few changes to the Jekyll theme [Mediator](https://github.com/dirkfabisch/mediator) witch itself is inspired from the Ghost theme [Readium 2.0](http://www.svenread.com/readium-ghost-theme/).
-See it live here : [http://raneez.github.io](http://raneez.github.io)
 
 Features
 -------
